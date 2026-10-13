@@ -4,7 +4,7 @@
 Proyecto Integrador de Tercer Nivel enfocado en el desarrollo de un Chat Empresarial con arquitectura cliente-servidor en Go, integrado sobre una infraestructura de red distribuida (OpenWrt, OSPF, VLANs) y un servicio de autenticación en FastAPI.
 
 ## Enlaces del Proyecto
-- **Tablero de Tareas (Kanban):** https://github.com/Noobmaster69-w/Proyecto-Integrador-
+- **Tablero de Tareas (Kanban):** https://github.com/users/itsAndy35/projects/1
 - **Video de Presentación - Fase 1:** [Pega aquí el enlace de YouTube/Drive]
 
 ## Estructura del Repositorio
