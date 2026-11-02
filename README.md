@@ -6,7 +6,7 @@ Proyecto Integrador de Tercer Nivel enfocado en el desarrollo de un Chat Empresa
 ## Enlaces del Proyecto
 - **Tablero de Tareas (Kanban):** https://github.com/users/itsAndy35/projects/1
 - **Video de Presentación - Fase 1:** [https://drive.google.com/file/d/1PorpYnaaEdJFoHKHZBURUW5P05MF2tj_/view?usp=sharing]
-- **Fase2: https://github.com/Noobmaster69-w/Proyecto-Integrador-/blob/main/docs/Fase2_POO_Grupo_3.pdf
+- **Fase2:** https://drive.google.com/file/d/15vcYOiJAqyRGVPb4NOQ1nuH6DS0uOpMI/view
 
 ## Estructura del Repositorio
 - `/docs`: Documentación técnica de las fases, diagramas UML y reportes.
